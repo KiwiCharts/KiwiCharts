@@ -1,0 +1,12 @@
+language: objective-c
+cache:
+  directories:
+    - vendor/bundle
+install:
+  - bundle install --path=vendor/bundle --binstubs=vendor/bin
+script:
+  - bundle exec rake test:ios
+env:
+  global:
+    - LANG=en_US.UTF-8
+    - LC_ALL=en_US.UTF-8
