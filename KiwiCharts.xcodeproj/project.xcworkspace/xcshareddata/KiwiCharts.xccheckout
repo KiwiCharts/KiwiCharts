@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2094436A-BC37-4C23-AA20-13C372106838</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KiwiCharts</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7C67F7B85EB6D3CB2820E0A5408462204BE9421F</key>
+		<string>github.com:stefanschmeisser/kiwi-charts.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KiwiCharts.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7C67F7B85EB6D3CB2820E0A5408462204BE9421F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:stefanschmeisser/kiwi-charts.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7C67F7B85EB6D3CB2820E0A5408462204BE9421F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7C67F7B85EB6D3CB2820E0A5408462204BE9421F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>kiwi-charts</string>
+		</dict>
+	</array>
+</dict>
+</plist>
